@@ -1,5 +1,5 @@
 # Simplified Bitcoin Project
-For my networking group project at CSUSM. It was coded in Python and we used Pretty Table for displaying. The program mimics buying and selling bitcoin through a client program and a server program. 
+For my group networking project at CSUSM. It was coded in Python and we used Pretty Table for displaying. The program mimics buying and selling bitcoin through a client program and a server program. 
 
 ### Downloads:
 
@@ -8,6 +8,17 @@ For my networking group project at CSUSM. It was coded in Python and we used Pre
 [PrettyTable](https://pypi.org/project/prettytable/)
 
 ### How to run:
+
+Getting started you just need Python installed and a compliler of you're choice to run.
+
+UDPClient.py and UDPServer.py need to be running at the same time through two different terminals.
+
+(Client will give the actions to choose from, Server will show the backend).
+
+Users are A, B, C, and D for simplicity.
+For entering a username choose a letter (A, B, C, D).
+The password being the same letter.
+
 
 ### Acknowledgements:
 Frank Snedecor
