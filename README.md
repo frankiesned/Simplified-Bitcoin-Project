@@ -1,5 +1,5 @@
 # Simplified Bitcoin Project
-For my group networking project at CSUSM. It was coded in Python and we used Pretty Table for displaying. The program mimics buying and selling bitcoin through a client program and a server program. 
+This project was coded in Python and we used Pretty Table for displaying. The program mimics buying and selling bitcoin through a client program and a server program. 
 
 ### Downloads:
 
