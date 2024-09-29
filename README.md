@@ -17,10 +17,10 @@ UDPClient.py and UDPServer.py need to be running at the same time through two di
 
 Users are A, B, C, and D for simplicity.
 For entering a username choose a letter (A, B, C, D).
-The password being the same letter.
+The password being the same letter as their username.
 
 
 ### Acknowledgements:
-Frank Snedecor
+Frank Snedecor | Computer Science Undergraduate
 
-Matt Miller
+Matt Miller | Computer Science Undergraduate
